@@ -50,13 +50,6 @@ Welcome to **Castle Defender**, an exciting tower defense game built with Pygame
 - **Upgrade Armor**: Click on the armor button to upgrade the castle's armor if you have enough money.
 - **Survive Waves**: Defend your castle through as many waves as possible and aim for a high score.
 
-## 🕹️ Controls
-
-- **Mouse**: Aim and shoot
-- **Left Click**: Interact with buttons
-
-## 📁 Project Structure
-├── button.py ├── enemy.py ├── img/ │ ├── castle/ │ ├── enemies/ │ │ ├── goblin/ │ │ ├── knight/ │ │ ├── purple_goblin/ │ │ └── red_goblin/ │ └── tower/ ├── main.py ├── README.md ├── requirements.txt ├── score.txt └── venv/
 
 
 ## 🤝 Contributing
